@@ -1,5 +1,5 @@
 # Gitlet (Version Control System)
-Project for the course CS 61B: Data Structures that creates a smaller version of Git version control system ("Gitlet") using SHA-1 serialization and tree search.
+Project for my FA '21 course, "Data Structures." Creates a smaller version of Git version control system ("Gitlet") using SHA-1 serialization and tree search.
 
 ## Classes and Data Structures
 
